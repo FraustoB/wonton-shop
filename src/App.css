@@ -40,4 +40,5 @@
 
 .App-background{
   background: linear-gradient(135deg, #D8D8D8, #FEAF61);
+  height: 120vh;
 }
