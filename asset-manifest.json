@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/wonton-soup-shop/static/css/main.10c04876.chunk.css",
-    "main.js": "/wonton-soup-shop/static/js/main.6cbab45e.chunk.js",
-    "main.js.map": "/wonton-soup-shop/static/js/main.6cbab45e.chunk.js.map",
+    "main.css": "/wonton-soup-shop/static/css/main.d0e4dee3.chunk.css",
+    "main.js": "/wonton-soup-shop/static/js/main.5a06b207.chunk.js",
+    "main.js.map": "/wonton-soup-shop/static/js/main.5a06b207.chunk.js.map",
     "runtime-main.js": "/wonton-soup-shop/static/js/runtime-main.39120131.js",
     "runtime-main.js.map": "/wonton-soup-shop/static/js/runtime-main.39120131.js.map",
     "static/js/2.6d19d394.chunk.js": "/wonton-soup-shop/static/js/2.6d19d394.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.ea9003eb.chunk.js": "/wonton-soup-shop/static/js/3.ea9003eb.chunk.js",
     "static/js/3.ea9003eb.chunk.js.map": "/wonton-soup-shop/static/js/3.ea9003eb.chunk.js.map",
     "index.html": "/wonton-soup-shop/index.html",
-    "static/css/main.10c04876.chunk.css.map": "/wonton-soup-shop/static/css/main.10c04876.chunk.css.map",
+    "static/css/main.d0e4dee3.chunk.css.map": "/wonton-soup-shop/static/css/main.d0e4dee3.chunk.css.map",
     "static/js/2.6d19d394.chunk.js.LICENSE.txt": "/wonton-soup-shop/static/js/2.6d19d394.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.39120131.js",
     "static/js/2.6d19d394.chunk.js",
-    "static/css/main.10c04876.chunk.css",
-    "static/js/main.6cbab45e.chunk.js"
+    "static/css/main.d0e4dee3.chunk.css",
+    "static/js/main.5a06b207.chunk.js"
   ]
 }
